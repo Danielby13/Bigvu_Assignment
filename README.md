@@ -9,11 +9,11 @@ To run this project:
 
 ```
 clone the repository  
-npm install (to install all the dependencies needed to run this task)
 cd to where clone file is placed
+npm install (to install all the dependencies needed to run this task)
 node index.js
 ```
-The library i used to make the video based on ffmpeg so you need to install this program before running this task, <a href="http://ffmpeg.org/">for more information </a>
+The library I used to make the video based on ffmpeg so you need to install this program before running this task, <a href="http://ffmpeg.org/">for more information </a>
 
 
 ## Preview:
