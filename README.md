@@ -13,10 +13,13 @@ npm install (to install all the dependencies needed to run this task)
 cd to where clone file is placed
 node index.js
 ```
-The library i used to make the video based on ffmpeg so you have to install this program before running this task. 
+The library i used to make the video based on ffmpeg so you need to install this program before running this task, <a href="http://ffmpeg.org/">for more information </a>
+
 
 ## Preview:
-![](https://media.giphy.com/media/DINkz12uEOF6a0Ge2O/giphy.gif)
+
+https://user-images.githubusercontent.com/44667895/126066517-064fa528-76f3-4e50-a5b9-d18f381e42a1.mp4
+
 
 ## Author:
 
